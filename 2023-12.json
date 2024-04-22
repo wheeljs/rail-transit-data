@@ -19,101 +19,103 @@
     "value": 0.863,
     "compare2019MonthPercent": -0.186
   },
-  "newLines": {
+  "news": {
     "operationLength": 250.1,
-    "count": 6,
-    "detail": [
-      {
-        "ch": "武汉地铁19号线",
-        "cityCh": "武汉",
-        "cityEn": "wuhan"
-      },
-      {
-        "ch": "重庆地铁18号线",
-        "cityCh": "重庆",
-        "cityEn": "chongqing"
-      },
-      {
-        "ch": "天津地铁11号线",
-        "cityCh": "天津",
-        "cityEn": "tianjin"
-      },
-      {
-        "ch": "郑州地铁12号线",
-        "cityCh": "郑州",
-        "cityEn": "zhengzhou"
-      },
-      {
-        "ch": "贵阳地铁3号线",
-        "cityCh": "贵阳",
-        "cityEn": "guiyang"
-      },
-      {
-        "ch": "南通地铁2号线",
-        "cityCh": "南通",
-        "cityEn": "nantong"
-      }
-    ]
-  },
-  "newSegments": {
-    "count": 11,
-    "detail": [
-      {
-        "ch": "北京地铁11号线西段剩余段",
-        "cityCh": "北京",
-        "cityEn": "beijing"
-      },
-      {
-        "ch": "北京地铁16号线剩余段",
-        "cityCh": "北京",
-        "cityEn": "beijing"
-      },
-      {
-        "ch": "北京地铁17号线北段",
-        "cityCh": "北京",
-        "cityEn": "beijing"
-      },
-      {
-        "ch": "广州地铁5号线东延段",
-        "cityCh": "广州",
-        "cityEn": "guangzhou"
-      },
-      {
-        "ch": "广州地铁7号线二期",
-        "cityCh": "广州",
-        "cityEn": "guangzhou"
-      },
-      {
-        "ch": "深圳地铁8号线二期",
-        "cityCh": "深圳",
-        "cityEn": "shenzhen"
-      },
-      {
-        "ch": "武汉地铁5号线调整工程",
-        "cityCh": "武汉",
-        "cityEn": "wuhan"
-      },
-      {
-        "ch": "南京地铁7号线南段",
-        "cityCh": "南京",
-        "cityEn": "nanjing"
-      },
-      {
-        "ch": "合肥地铁2号线延长线",
-        "cityCh": "合肥",
-        "cityEn": "hefei"
-      },
-      {
-        "ch": "合肥地铁3号线延长线",
-        "cityCh": "合肥",
-        "cityEn": "hefei"
-      },
-      {
-        "ch": "哈尔滨地铁3号线二期西北半环（中华巴洛克街区站至北马路站）",
-        "cityCh": "哈尔滨",
-        "cityEn": "haerbin"
-      }
-    ]
+    "lines": {
+      "count": 6,
+      "detail": [
+        {
+          "ch": "武汉地铁19号线",
+          "cityCh": "武汉",
+          "cityEn": "wuhan"
+        },
+        {
+          "ch": "重庆地铁18号线",
+          "cityCh": "重庆",
+          "cityEn": "chongqing"
+        },
+        {
+          "ch": "天津地铁11号线",
+          "cityCh": "天津",
+          "cityEn": "tianjin"
+        },
+        {
+          "ch": "郑州地铁12号线",
+          "cityCh": "郑州",
+          "cityEn": "zhengzhou"
+        },
+        {
+          "ch": "贵阳地铁3号线",
+          "cityCh": "贵阳",
+          "cityEn": "guiyang"
+        },
+        {
+          "ch": "南通地铁2号线",
+          "cityCh": "南通",
+          "cityEn": "nantong"
+        }
+      ]
+    },
+    "segments": {
+      "count": 11,
+      "detail": [
+        {
+          "ch": "北京地铁11号线西段剩余段",
+          "cityCh": "北京",
+          "cityEn": "beijing"
+        },
+        {
+          "ch": "北京地铁16号线剩余段",
+          "cityCh": "北京",
+          "cityEn": "beijing"
+        },
+        {
+          "ch": "北京地铁17号线北段",
+          "cityCh": "北京",
+          "cityEn": "beijing"
+        },
+        {
+          "ch": "广州地铁5号线东延段",
+          "cityCh": "广州",
+          "cityEn": "guangzhou"
+        },
+        {
+          "ch": "广州地铁7号线二期",
+          "cityCh": "广州",
+          "cityEn": "guangzhou"
+        },
+        {
+          "ch": "深圳地铁8号线二期",
+          "cityCh": "深圳",
+          "cityEn": "shenzhen"
+        },
+        {
+          "ch": "武汉地铁5号线调整工程",
+          "cityCh": "武汉",
+          "cityEn": "wuhan"
+        },
+        {
+          "ch": "南京地铁7号线南段",
+          "cityCh": "南京",
+          "cityEn": "nanjing"
+        },
+        {
+          "ch": "合肥地铁2号线延长线",
+          "cityCh": "合肥",
+          "cityEn": "hefei"
+        },
+        {
+          "ch": "合肥地铁3号线延长线",
+          "cityCh": "合肥",
+          "cityEn": "hefei"
+        },
+        {
+          "ch": "哈尔滨地铁3号线二期西北半环（中华巴洛克街区站至北马路站）",
+          "cityCh": "哈尔滨",
+          "cityEn": "haerbin"
+        }
+      ]
+    }
   },
   "id": "2023-12",
   "days": 31,

@@ -36,10 +36,16 @@
     "passengerCapacity": 10390000,
     "inStationCapacity": 9860000
   },
-  "newLines": {
+  "news": {
     "operationLength": 0,
-    "count": 0,
-    "detail": null
+    "lines": {
+      "count": 0,
+      "detail": null
+    },
+    "segments": {
+      "count": 0,
+      "detail": null
+    }
   },
   "id": "2024-1",
   "days": 31,

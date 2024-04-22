@@ -19,31 +19,33 @@
     "value": 0.868,
     "compare2019MonthPercent": -0.181
   },
-  "newLines": {
+  "news": {
     "operationLength": 53.6,
-    "count": 1,
-    "detail": [
-      {
-        "ch": "成都地铁19号线",
-        "cityCh": "成都",
-        "cityEn": "chengdu"
-      }
-    ]
-  },
-  "newSegments": {
-    "count": 2,
-    "detail": [
-      {
-        "ch": "重庆地铁5号线一期中段",
-        "cityCh": "重庆",
-        "cityEn": "chongqing"
-      },
-      {
-        "ch": "重庆地铁10号线二期南段",
-        "cityCh": "重庆",
-        "cityEn": "chongqing"
-      }
-    ]
+    "lines": {
+      "count": 1,
+      "detail": [
+        {
+          "ch": "成都地铁19号线",
+          "cityCh": "成都",
+          "cityEn": "chengdu"
+        }
+      ]
+    },
+    "segments": {
+      "count": 2,
+      "detail": [
+        {
+          "ch": "重庆地铁5号线一期中段",
+          "cityCh": "重庆",
+          "cityEn": "chongqing"
+        },
+        {
+          "ch": "重庆地铁10号线二期南段",
+          "cityCh": "重庆",
+          "cityEn": "chongqing"
+        }
+      ]
+    }
   },
   "id": "2023-11",
   "days": 30,
