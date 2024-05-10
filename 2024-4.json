@@ -61,16 +61,13 @@
     }
   },
   "off": {
-    "cities": {
-      "count": 1,
-      "detail": [
-        {
-          "ch": "珠海",
-          "cityCh": "珠海",
-          "cityEn": "zhuhai"
-        }
-      ]
-    },
+    "cities": [
+      {
+        "ch": "珠海市",
+        "cityCh": "珠海",
+        "cityEn": "zhuhai"
+      }
+    ],
     "operationLength": 8.4,
     "lines": {
       "count": 1,
